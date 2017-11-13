@@ -1,0 +1,462 @@
+C:\Dev\ShauliBlog\ShauliBlog\bin\roslyn\csc.exe
+C:\Dev\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Dev\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Dev\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Dev\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Dev\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Dev\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Dev\ShauliBlog\ShauliBlog\bin\roslyn\System.Collections.Immutable.dll
+C:\Dev\ShauliBlog\ShauliBlog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Dev\ShauliBlog\ShauliBlog\bin\roslyn\vbc.exe
+C:\Dev\ShauliBlog\ShauliBlog\bin\roslyn\VBCSCompiler.exe
+C:\Dev\ShauliBlog\ShauliBlog\bin\roslyn\VBCSCompiler.exe.config
+C:\Dev\ShauliBlog\ShauliBlog\bin\ShauliBlog.dll.config
+C:\Dev\ShauliBlog\ShauliBlog\bin\ShauliBlog.dll
+C:\Dev\ShauliBlog\ShauliBlog\bin\ShauliBlog.pdb
+C:\Dev\ShauliBlog\ShauliBlog\bin\Antlr3.Runtime.dll
+C:\Dev\ShauliBlog\ShauliBlog\bin\EntityFramework.dll
+C:\Dev\ShauliBlog\ShauliBlog\bin\EntityFramework.SqlServer.dll
+C:\Dev\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Dev\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Dev\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Dev\ShauliBlog\ShauliBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Dev\ShauliBlog\ShauliBlog\bin\Microsoft.Owin.dll
+C:\Dev\ShauliBlog\ShauliBlog\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Dev\ShauliBlog\ShauliBlog\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Dev\ShauliBlog\ShauliBlog\bin\Microsoft.Owin.Security.dll
+C:\Dev\ShauliBlog\ShauliBlog\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Dev\ShauliBlog\ShauliBlog\bin\Microsoft.Owin.Security.Google.dll
+C:\Dev\ShauliBlog\ShauliBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Dev\ShauliBlog\ShauliBlog\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Dev\ShauliBlog\ShauliBlog\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Dev\ShauliBlog\ShauliBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Dev\ShauliBlog\ShauliBlog\bin\Newtonsoft.Json.dll
+C:\Dev\ShauliBlog\ShauliBlog\bin\Owin.dll
+C:\Dev\ShauliBlog\ShauliBlog\bin\System.Web.Helpers.dll
+C:\Dev\ShauliBlog\ShauliBlog\bin\System.Web.Mvc.dll
+C:\Dev\ShauliBlog\ShauliBlog\bin\System.Web.Optimization.dll
+C:\Dev\ShauliBlog\ShauliBlog\bin\System.Web.Razor.dll
+C:\Dev\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.Deployment.dll
+C:\Dev\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.dll
+C:\Dev\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.Razor.dll
+C:\Dev\ShauliBlog\ShauliBlog\bin\WebGrease.dll
+C:\Dev\ShauliBlog\ShauliBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Dev\ShauliBlog\ShauliBlog\bin\System.Web.Helpers.xml
+C:\Dev\ShauliBlog\ShauliBlog\bin\System.Web.Mvc.xml
+C:\Dev\ShauliBlog\ShauliBlog\bin\System.Web.Optimization.xml
+C:\Dev\ShauliBlog\ShauliBlog\bin\System.Web.Razor.xml
+C:\Dev\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.xml
+C:\Dev\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.Deployment.xml
+C:\Dev\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.Razor.xml
+C:\Dev\ShauliBlog\ShauliBlog\bin\Antlr3.Runtime.pdb
+C:\Dev\ShauliBlog\ShauliBlog\bin\Newtonsoft.Json.xml
+C:\Dev\ShauliBlog\ShauliBlog\bin\EntityFramework.xml
+C:\Dev\ShauliBlog\ShauliBlog\bin\EntityFramework.SqlServer.xml
+C:\Dev\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Dev\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Dev\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Dev\ShauliBlog\ShauliBlog\bin\Microsoft.Owin.xml
+C:\Dev\ShauliBlog\ShauliBlog\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Dev\ShauliBlog\ShauliBlog\bin\Microsoft.Owin.Security.xml
+C:\Dev\ShauliBlog\ShauliBlog\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Dev\ShauliBlog\ShauliBlog\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Dev\ShauliBlog\ShauliBlog\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Dev\ShauliBlog\ShauliBlog\bin\Microsoft.Owin.Security.Google.xml
+C:\Dev\ShauliBlog\ShauliBlog\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Dev\ShauliBlog\ShauliBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Dev\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.csprojResolveAssemblyReference.cache
+C:\Dev\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.dll
+C:\Dev\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.pdb
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\csc.exe
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\System.Collections.Immutable.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\vbc.exe
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\VBCSCompiler.exe
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\VBCSCompiler.exe.config
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\ShauliBlog.dll.config
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\ShauliBlog.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\ShauliBlog.pdb
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\Antlr3.Runtime.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\EntityFramework.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\EntityFramework.SqlServer.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\Newtonsoft.Json.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Helpers.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Mvc.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Optimization.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Razor.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.Deployment.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.Razor.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\WebGrease.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Helpers.xml
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Mvc.xml
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Optimization.xml
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Razor.xml
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.xml
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.Deployment.xml
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.Razor.xml
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\Antlr3.Runtime.pdb
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\Newtonsoft.Json.xml
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\EntityFramework.xml
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\EntityFramework.SqlServer.xml
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.pdb
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.csprojResolveAssemblyReference.cache
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\csc.exe
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\vbc.exe
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\VBCSCompiler.exe
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\ShauliBlog.dll.config
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\ShauliBlog.dll
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\ShauliBlog.pdb
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\Antlr3.Runtime.dll
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\EntityFramework.dll
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\Newtonsoft.Json.dll
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Helpers.dll
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Mvc.dll
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Optimization.dll
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Razor.dll
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.dll
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.Razor.dll
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\WebGrease.dll
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Helpers.xml
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Mvc.xml
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Optimization.xml
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Razor.xml
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.xml
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.Razor.xml
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\Antlr3.Runtime.pdb
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\Newtonsoft.Json.xml
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\EntityFramework.xml
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.dll
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.pdb
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.Migrations.InitialCreate.resources
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.csproj.GenerateResource.Cache
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.Migrations.Migration1.resources
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.Migrations.Migration2.resources
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.csprojResolveAssemblyReference.cache
+C:\Users\אורן\Desktop\מטלה 2_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.Migrations.Migration3.resources
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\csc.exe
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\vbc.exe
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\VBCSCompiler.exe
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\ShauliBlog.dll.config
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\ShauliBlog.dll
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\ShauliBlog.pdb
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Antlr3.Runtime.dll
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\EntityFramework.dll
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Newtonsoft.Json.dll
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Helpers.dll
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Mvc.dll
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Optimization.dll
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Razor.dll
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.dll
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.Razor.dll
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\WebGrease.dll
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Helpers.xml
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Mvc.xml
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Optimization.xml
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Razor.xml
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.xml
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.Razor.xml
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Antlr3.Runtime.pdb
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Newtonsoft.Json.xml
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\EntityFramework.xml
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.Migrations.InitialCreate.resources
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.Migrations.Migration1.resources
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.Migrations.Migration2.resources
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.Migrations.Migration3.resources
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.csproj.GenerateResource.Cache
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.dll
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.pdb
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\csc.exe
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\vbc.exe
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\ShauliBlog.dll.config
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\ShauliBlog.dll
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\ShauliBlog.pdb
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Antlr3.Runtime.dll
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\EntityFramework.dll
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Newtonsoft.Json.dll
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Helpers.dll
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Mvc.dll
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Optimization.dll
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Razor.dll
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.dll
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\WebGrease.dll
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Helpers.xml
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Mvc.xml
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Optimization.xml
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Razor.xml
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.xml
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Antlr3.Runtime.pdb
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Newtonsoft.Json.xml
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\EntityFramework.xml
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.Migrations.InitialCreate.resources
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.Migrations.Migration1.resources
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.Migrations.Migration2.resources
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.Migrations.Migration3.resources
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.csproj.GenerateResource.Cache
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.dll
+C:\Users\Dor\Downloads\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.pdb
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\csc.exe
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\vbc.exe
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\VBCSCompiler.exe
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\ShauliBlog.dll.config
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\ShauliBlog.dll
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\ShauliBlog.pdb
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Antlr3.Runtime.dll
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\EntityFramework.dll
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Newtonsoft.Json.dll
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Helpers.dll
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Mvc.dll
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Optimization.dll
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Razor.dll
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.dll
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.Razor.dll
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\WebGrease.dll
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Helpers.xml
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Mvc.xml
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Optimization.xml
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Razor.xml
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.xml
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.Razor.xml
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Antlr3.Runtime.pdb
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Newtonsoft.Json.xml
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\EntityFramework.xml
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.Migrations.InitialCreate.resources
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.Migrations.Migration1.resources
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.Migrations.Migration2.resources
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.Migrations.Migration3.resources
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.csproj.GenerateResource.Cache
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.dll
+C:\Users\אורן\Desktop\דור\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.pdb
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.Migrations.Migration55.resources
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.Migrations.Migration56.resources
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.Migrations.Migration57.resources
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.Migrations.Migration58.resources
+C:\Users\אורן\Desktop\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.Migrations.Migration59.resources
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\csc.exe
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\System.Collections.Immutable.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\vbc.exe
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\VBCSCompiler.exe
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\roslyn\VBCSCompiler.exe.config
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\ShauliBlog.dll.config
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\ShauliBlog.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\ShauliBlog.pdb
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Antlr3.Runtime.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\EntityFramework.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\EntityFramework.SqlServer.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Newtonsoft.Json.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Helpers.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Mvc.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Optimization.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Razor.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.Deployment.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.Razor.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\WebGrease.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Helpers.xml
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Mvc.xml
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Optimization.xml
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.Razor.xml
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.xml
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.Deployment.xml
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.Razor.xml
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Antlr3.Runtime.pdb
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Newtonsoft.Json.xml
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\EntityFramework.xml
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\EntityFramework.SqlServer.xml
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.csprojResolveAssemblyReference.cache
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.Migrations.InitialCreate.resources
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.Migrations.Migration1.resources
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.Migrations.Migration2.resources
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.Migrations.Migration3.resources
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.Migrations.Migration55.resources
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.Migrations.Migration56.resources
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.Migrations.Migration57.resources
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.Migrations.Migration58.resources
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.Migrations.Migration59.resources
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.csproj.GenerateResource.Cache
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.dll
+C:\Dropbox\לימודים\קורסים\שנה ב\סמסטר ג\אפליקציות אינטרנטיות\מטלות\מטלה 3_305561565_204701056\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.pdb
+C:\bar\ShauliBlog\ShauliBlog\bin\roslyn\csc.exe
+C:\bar\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\bar\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\bar\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\bar\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\bar\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\bar\ShauliBlog\ShauliBlog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\bar\ShauliBlog\ShauliBlog\bin\roslyn\System.Collections.Immutable.dll
+C:\bar\ShauliBlog\ShauliBlog\bin\roslyn\System.Reflection.Metadata.dll
+C:\bar\ShauliBlog\ShauliBlog\bin\roslyn\vbc.exe
+C:\bar\ShauliBlog\ShauliBlog\bin\roslyn\VBCSCompiler.exe
+C:\bar\ShauliBlog\ShauliBlog\bin\roslyn\VBCSCompiler.exe.config
+C:\bar\ShauliBlog\ShauliBlog\bin\ShauliBlog.dll.config
+C:\bar\ShauliBlog\ShauliBlog\bin\ShauliBlog.dll
+C:\bar\ShauliBlog\ShauliBlog\bin\ShauliBlog.pdb
+C:\bar\ShauliBlog\ShauliBlog\bin\Antlr3.Runtime.dll
+C:\bar\ShauliBlog\ShauliBlog\bin\EntityFramework.dll
+C:\bar\ShauliBlog\ShauliBlog\bin\EntityFramework.SqlServer.dll
+C:\bar\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\bar\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\bar\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\bar\ShauliBlog\ShauliBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\bar\ShauliBlog\ShauliBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\bar\ShauliBlog\ShauliBlog\bin\Newtonsoft.Json.dll
+C:\bar\ShauliBlog\ShauliBlog\bin\System.Web.Helpers.dll
+C:\bar\ShauliBlog\ShauliBlog\bin\System.Web.Mvc.dll
+C:\bar\ShauliBlog\ShauliBlog\bin\System.Web.Optimization.dll
+C:\bar\ShauliBlog\ShauliBlog\bin\System.Web.Razor.dll
+C:\bar\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.Deployment.dll
+C:\bar\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.dll
+C:\bar\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.Razor.dll
+C:\bar\ShauliBlog\ShauliBlog\bin\WebGrease.dll
+C:\bar\ShauliBlog\ShauliBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\bar\ShauliBlog\ShauliBlog\bin\System.Web.Helpers.xml
+C:\bar\ShauliBlog\ShauliBlog\bin\System.Web.Mvc.xml
+C:\bar\ShauliBlog\ShauliBlog\bin\System.Web.Optimization.xml
+C:\bar\ShauliBlog\ShauliBlog\bin\System.Web.Razor.xml
+C:\bar\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.xml
+C:\bar\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.Deployment.xml
+C:\bar\ShauliBlog\ShauliBlog\bin\System.Web.WebPages.Razor.xml
+C:\bar\ShauliBlog\ShauliBlog\bin\Antlr3.Runtime.pdb
+C:\bar\ShauliBlog\ShauliBlog\bin\Newtonsoft.Json.xml
+C:\bar\ShauliBlog\ShauliBlog\bin\EntityFramework.xml
+C:\bar\ShauliBlog\ShauliBlog\bin\EntityFramework.SqlServer.xml
+C:\bar\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\bar\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\bar\ShauliBlog\ShauliBlog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\bar\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.csprojResolveAssemblyReference.cache
+C:\bar\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.Migrations.InitialCreate.resources
+C:\bar\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.Migrations.Migration1.resources
+C:\bar\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.Migrations.Migration2.resources
+C:\bar\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.Migrations.Migration3.resources
+C:\bar\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.Migrations.Migration55.resources
+C:\bar\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.Migrations.Migration56.resources
+C:\bar\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.Migrations.Migration57.resources
+C:\bar\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.Migrations.Migration58.resources
+C:\bar\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.Migrations.Migration59.resources
+C:\bar\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.csproj.GenerateResource.Cache
+C:\bar\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.csproj.CoreCompileInputs.cache
+C:\bar\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.dll
+C:\bar\ShauliBlog\ShauliBlog\obj\Debug\ShauliBlog.pdb

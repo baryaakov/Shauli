@@ -1,0 +1,34 @@
+﻿@model ShauliBlog.Models.Post
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+
+<section>
+    <article class="blogPost">
+        <header>
+            <h2>@Html.DisplayFor(model => model.PostTitle)</h2>
+            <p>Posted on @Html.DisplayFor(model => model.PublishDate) by <a href="@Html.DisplayFor(model => model.PostWriterSiteUrl)">@Html.DisplayFor(model => model.PostWriterName)</a> - <a href="/Comment/Index/@Html.DisplayFor(model => model.ID)">@Html.DisplayFor(model => model.PostComments.Count) comments</a> </p>
+        </header>
+        <div>
+            <p>@Html.DisplayFor(model => model.PostTextContent)</p>
+
+            <img src="@Html.DisplayFor(model => model.ImageUrl)" alt="Image" />
+      
+            <video controls="controls">
+                <source src="@Html.DisplayFor(model => model.VideoUrl)" type="video/mp4" />
+                Your browser does not support the video tag.
+            </video>
+
+            
+        </div>
+    </article>
+</section>
+
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

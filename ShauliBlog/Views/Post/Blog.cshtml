@@ -1,0 +1,144 @@
+﻿@model IEnumerable<ShauliBlog.Models.Post>
+
+    @{
+        ViewBag.Title = "Blog";
+
+    }
+
+    <audio autoplay>
+        <source src="~/media/Smashmouth - Allstar.mp3" type="audio/mpeg">
+    </audio>
+
+    <h2>Blog Posts</h2>
+
+    <section>
+        <header class="searchTitle">Post search</header>
+        <form class="formStyle">
+            <table class="searchTable">
+                <tr>
+                    <td>
+                        <label for="from">From:</label>
+                    </td>
+                    <td>
+                        <input type="date" name="from">
+                    </td>
+                    <td>
+                        <label for="to">To:</label>
+                    </td>
+                    <td>
+                        <input type="date" name="to">
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        <label for="writer">Writer:</label>
+                    </td>
+                    <td>
+                        <input type="search" name="writer">
+                    </td>
+                    <td>
+                        <label for="email">Writer Mail:</label>
+                    </td>
+                    <td>
+                        <input type="email" name="email">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="comments">Comments:</label>
+                    </td>
+                    <td>
+                        <input type="search" name="comments">
+                    </td>
+                    <td>
+                        <label for="minComments">Minimal Comments:</label>
+                    </td>
+                    <td>
+                        1 <input type="range" name="points" min="1" max="10" name="minComments"> 10
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="4">
+                        <input type="submit" value="Search" class="searchButton">
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </section>
+
+
+
+
+    @foreach (var item in Model)
+    {
+
+        <section>
+            <article class="blogPost">
+                <header>
+                    <h2>@Html.DisplayFor(modelItem => item.PostTitle)</h2>
+                    <p>Posted on @Html.DisplayFor(modelItem => item.PublishDate) by <a href="@Html.DisplayFor(modelItem => item.PostWriterSiteUrl)">@Html.DisplayFor(modelItem => item.PostWriterName)</a> - <a href="/Comment/Index/@Html.DisplayFor(modelItem => item.ID)">@Html.DisplayFor(modelItem => item.PostComments.Count) comments</a> </p>
+                </header>
+                <div>
+                    <p>@Html.DisplayFor(modelItem => item.PostTextContent)</p>
+
+                    <img class="postImage" src="@Html.DisplayFor(modelItem => item.ImageUrl)" alt="Image" />
+
+                    <video controls="controls">
+                        <source src="@Html.DisplayFor(modelItem => item.VideoUrl)" type="video/mp4" />
+                        Your browser does not support the video tag.
+                    </video>
+                </div>
+            </article>
+        </section>
+
+
+        <section id="comments">
+            <h3>Comments</h3>
+            @for (int i = 0; i < item.PostComments.Count; i++)
+            {
+                <article>
+                    <header>
+                        <a href="@Html.DisplayFor(modelItem => item.PostComments[i].CommentWriterSiteUrl)">@Html.DisplayFor(modelItem => item.PostComments[i].CommentWriterName)</a>
+                    </header>
+                    <p>@Html.DisplayFor(modelItem => item.PostComments[i].CommentTextContent)</p>
+                </article>
+            }
+
+        </section>
+
+
+
+    <form action="#" method="post">
+        @Html.AntiForgeryToken()
+    <h3>Post a comment</h3>
+    <p>
+        <label for="PostID" class="PostIdForComment"></label>
+        <input name="PostID" id="PostID" class="PostIdForComment" style="visibility:hidden;" type="text" value="@item.ID" />
+    </p>
+    <p>
+        <label for="CommentTitle">Title</label>
+        <input name="CommentTitle" id="CommentTitle" type="text"  />
+    </p>
+    <p>
+        <label for="CommentWriterName">Writer Name</label>
+        <input name="CommentWriterName" id="CommentWriterName" type="text"  />
+    </p>
+    <p>
+        <label for="CommentWriterSiteUrl">WebSite Url</label>
+        <input name="CommentWriterSiteUrl" id="CommentWriterSiteUrl" type="url" />
+    </p>
+    <p>
+        <label for="CommentTextContent">Content</label>
+        <textarea name="CommentTextContent" id="CommentTextContent"></textarea>
+    </p>
+    <p><input type="submit" value="Post comment" /></p>
+</form>
+        
+        
+        
+        
+        }
+
+
+    

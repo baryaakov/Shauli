@@ -1,0 +1,80 @@
+﻿@model ShauliBlog.Models.Post
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Post</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.PostTitle)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PostTitle)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PostWriterName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PostWriterName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PostWriterSiteUrl)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PostWriterSiteUrl)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PublishDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PublishDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PostTextContent)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PostTextContent)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ImageUrl)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ImageUrl)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.VideoUrl)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.VideoUrl)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>
